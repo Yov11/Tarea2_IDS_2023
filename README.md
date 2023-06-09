@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Este repositorio es una prueba para enseñar el manejo básico de **Git** y **GitHub**. Aprovechamos de paso para aprender un poco de Java.
+Este repositorio es una prueba para el curso de IDS 2023 UNMSM
 
 ## Compilación y ejecución del programa
 
