@@ -1,4 +1,4 @@
-# "Hola mundo" en Java
+# "Hola mundo" en C++
 
 ## Descripción
 
@@ -8,7 +8,7 @@ Este repositorio es una prueba para el curso de IDS 2023 UNMSM
 
 ### Desde una ventana de terminal
 
-Para compilar el fichero `HolaMundo.java` ejecutamos la siguiente línea de comandos (es necesario tener instalado el *JDK*):
+Para compilar el fichero `prueba.cpp` ejecutamos la siguiente línea de comandos (es necesario tener instalado el *JDK*):
 
 ```console
 javac HolaMundo.java
